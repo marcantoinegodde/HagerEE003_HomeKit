@@ -11,7 +11,7 @@
 
 #define VIN 3300
 #define VMCU 3030
-#define R1 9920
+#define R1 10000
 
 void setup() {
     Serial.begin(115200);
